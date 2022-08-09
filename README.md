@@ -2,7 +2,7 @@
 
 # Lab | Comparative report with PowerBi
 
-Refer to the same data source from the previous lab [Marketing_Customer_Analysis](https://github.com/KofiSika/Testing_eye/blob/main/Labs/Data_Analytics_with_PowerBi/Files_for_Lab/Marketing_Customer_Analysis.txt) for this lab
+Refer to the same data source from the previous lab [Marketing_Customer_Analysis](https://github.com/student-IH-labs-and-stuff/lab_comparative_powerbi/tree/main/files_for_lab) for this lab
 
 ### Instructions 
 1. Create a new column called Client_Rating and group customers into Low, Medium or High based on their Monthly_Premium: 
