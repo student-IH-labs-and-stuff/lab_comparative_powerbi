@@ -10,7 +10,9 @@ Refer to the same data source from the previous lab [Marketing_Customer_Analysis
     * Monthly premium greater than 150 is High 
     * Monthly premium between 70 and 150 is Medium 
 
-2. Create first chart in this report : How many clients fall under each Client_rating and what is the average Customer Lifetime Value of each rating group ? (Use appropriate chart and tool tips)
-3. Staying on the same page in PowerBI, create a quick measure of clients with only a High school diploma or below and have customer lifetime value greater than 2000. Create a second chart pn this page which shows how many clients fall in this category and what states are they from  (Tip: Use a matrix (crosstab) or maps) 
-4. Use a filter across both reports (whole page) to show number of clients that have an income of 0. 
-5. Ensure the two charts have been given enough space on the report before testing it to ensure the filter, tooltips and plots are working as expected. 
+2. Now that we have classified clients by their monthly premium let's create a one page report depicting the following information: 
+    * How many clients fall under each Client_rating and what is the average Customer Lifetime Value of each rating group ? 
+    * Show average total claim by client rating and is there a contrast between number of clients in rating and total claim amount ? 
+3. On the same page create a chart (Tip: Use a matrix (crosstab) or maps) showing clients with only a High school diploma or below and have a customer lifetime value greater than 2000, how many clients fall in this category and what states are they from ? 
+4. Use the card feature to show the total number of clients on the same report page and tidy up your report to remove clutter and edit titles accordingly.
+
